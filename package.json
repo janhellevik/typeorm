@@ -80,7 +80,7 @@
     "app-root-path": "^2.0.1",
     "buffer": "^5.1.0",
     "chalk": "^2.3.2",
-    "cli-highlight": "^1.2.3",
+    "cli-highlight": "^2.1.2",
     "debug": "^3.1.0",
     "dotenv": "^5.0.1",
     "glob": "^7.1.2",
@@ -89,7 +89,7 @@
     "reflect-metadata": "^0.1.12",
     "xml2js": "^0.4.17",
     "yargonaut": "^1.1.2",
-    "yargs": "^11.1.0"
+    "yargs": "^13.3.0"
   },
   "lint-staged": {
     "*.ts": [
