@@ -89,7 +89,7 @@
     "reflect-metadata": "^0.1.12",
     "xml2js": "^0.4.17",
     "yargonaut": "^1.1.2",
-    "yargs": "^11.1.0"
+    "yargs": "^18.0.0"
   },
   "lint-staged": {
     "*.ts": [
